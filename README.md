@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Asian University of Bangladesh.
-- 💼 &nbsp; Working as a software engineer at ![itsource](https://www.itsourcebd.com/).
+- 💼 &nbsp; Working as a software engineer at itsource(https://www.itsourcebd.com/).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Drawing as hobbies/side hustles.
 
