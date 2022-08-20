@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Asian University of Bangladesh.
-- 💼 &nbsp; Working as a software engineer at itsource(https://www.itsourcebd.com/).
+- 💼 &nbsp; Working as a software engineer at <a href="https://www.itsourcebd.com/">itsource</a> (part time & remoted).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Drawing as hobbies/side hustles.
 
@@ -21,7 +21,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Django](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Django Rest Framework](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
