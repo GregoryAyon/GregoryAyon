@@ -1,4 +1,6 @@
-<h2> Hey there! I'm Ayon.</h2>
+[![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)](https://sanaullahrabbi.github.io/digital-resume)
+
+## Hey there! I'm Ayon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -7,6 +9,10 @@
 - 💼 &nbsp; Working as a software engineer at <a href="https://www.itsourcebd.com/">itsource</a> (part time & remoted).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Drawing as hobbies/side hustles.
+
+### 🏆 Skills
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-1C1E24?style=for-the-badge&logo=tailwindcss&logoColor=#D04A37)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -38,13 +44,22 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Figma](https://img.shields.io/badge/-Figma-36454F?style=flat&logo=figma)
 
 <br/>
 
-<a href="https://github.com/GregoryAyon">
+<!--<a href="https://github.com/GregoryAyon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GregoryAyon&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryAyon&theme=buefy&layout=compact" />
-</a>
+</a>-->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=GregoryAyon" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=GregoryAyon" height="150" alt="languages graph"  />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GregoryAyon&theme=dark&hide_border=true" height="150" alt="streal stats"/>
+</div>
 
 <br/>
 
@@ -55,3 +70,8 @@
 <a href="mailto:royayon229@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-royayon229@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.ayon.com-blue?style=flat-square&logo=google-chrome"></a>
 </p>
+
+##### Profile Visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=GregoryAyon)
+
+⭐️ From [GregoryAyon](https://github.com/GregoryAyon)
