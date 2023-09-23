@@ -68,7 +68,5 @@
 <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.ayon.com-blue?style=flat-square&logo=google-chrome"></a>
 </p>
 
-##### Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GregoryAyon)
-
+🌐 web-address: [web-link](https://ayon.tyrodevs.xyz/)
 ⭐️ From [GregoryAyon](https://github.com/GregoryAyon)
