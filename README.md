@@ -1,4 +1,4 @@
-[![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)](https://sanaullahrabbi.github.io/digital-resume)
+[![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)](https://ayon.tyrodevs.xyz/)
 
 ## Hey there! I'm Ayon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
@@ -63,9 +63,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-GregoryAyon-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ayon229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ayon229-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:royayon229@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-royayon229@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.ayon.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://ayon.tyrodevs.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ayon.tyrodevs.xyz-blue?style=flat-square&logo=google-chrome"></a>
 </p>
 
 🌐 web-address: [web-link](https://ayon.tyrodevs.xyz/)
