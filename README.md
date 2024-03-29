@@ -6,13 +6,13 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Asian University of Bangladesh.
-- 💼 &nbsp; Working as a software engineer at <a href="https://www.itsourcebd.com/">itsource</a> (part time & remoted).
+- 💼 &nbsp; Working as a software engineer at <a href="https://www.itsourcebd.com/">itsource</a> (remoted).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Drawing as hobbies/side hustles.
 
 ### 🏆 Skills
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-1C1E24?style=for-the-badge&logo=tailwindcss&logoColor=#D04A37)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-1C1E24?style=for-the-badge&logo=tailwindcss&logoColor=#D04A37)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -53,11 +53,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryAyon&theme=buefy&layout=compact" />
 </a>-->
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=GregoryAyon" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=GregoryAyon" height="150" alt="languages graph"  />
-</div>
+<hr/>
+<br/>
 
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gregoriayon&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+<br/>
+<hr/>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
